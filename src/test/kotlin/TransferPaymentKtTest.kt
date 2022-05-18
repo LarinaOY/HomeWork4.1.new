@@ -160,7 +160,7 @@ class TransferPaymentKtTest {
                 transfer = transferNew
             )
             // assert
-            assertEquals(47000, result)
+            assertEquals(46000, result)
 
         }
 
